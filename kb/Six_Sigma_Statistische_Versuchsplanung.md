@@ -76,4 +76,4 @@ Voraussetzung ist es ein zuverlässiges System und Reproduzierbarkeit zu gewähr
 [^7]: [Six Sigma - Statistische Versuchsplanung, abgerufen am 20.11.2021] (https://www.dirk-joedicke.de/statistische-versuchsplanung)
 [^8]: [Design of Experiments (DoE), abgerufen am 20.11.2021] (https://six-sigma.com/lexikon/design-of-experiments-doe/)
 [^9]: [Six Sigma - Statistische Versuchsplanung, abgerufen am 20.11.2021] (https://www.dirk-joedicke.de/statistische-versuchsplanung)
-[^10]: [Statistische Versuchsplanung (DoE), abgerufen am 20.11.2021] (https://www.mt.com/de/de/home/applications/L1_AutoChem_Applications/L2_ReactionAnalysis/design-of-experiments-doe.html)
+[^10]: [Statistische Versuchsplanung (DoE), abgerufen am 20.11.2021] (https://www.mt.com/de/de/home/applications/L1_AutoChem_Applications/L2_ReactionAnalysis/design-of-experiments-doe.html) 
